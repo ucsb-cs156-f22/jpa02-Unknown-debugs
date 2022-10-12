@@ -3,7 +3,7 @@
 
 Repo: https://github.com/ucsb-cs156-f22/jpa02-Unknown-debugs
 
-On Heroku: https://jpa02-junhwanlee.herokuapp.com/
+On Heroku: https://jpa02-junhwanlee.herokuapp.com
 
 
 # About this repo
